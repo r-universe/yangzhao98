@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "esDesign"]
 	path = esDesign
-	url = https://github.com/yangzhao98/esdesign
+	url = https://github.com/cran/esDesign
 [submodule "nnt"]
 	path = nnt
 	url = https://github.com/cran/nnt
